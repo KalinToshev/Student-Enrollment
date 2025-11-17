@@ -9,7 +9,7 @@
 
 ## ⚙️ Технологии
 
-* C# / .NET 8 (Windows Desktop) **или** .NET Framework 4.8
+* C# / .NET Framework 4.8
 * Windows Forms (WinForms)
 * Колекции: `List<T>`, `SortedList<TKey,TValue>`, `Stack<T>`
 * Делегати и събития (custom delegate + EventArgs)
