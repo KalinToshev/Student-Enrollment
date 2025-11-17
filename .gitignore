@@ -13,7 +13,7 @@ launchSettings.json
 TestResult*/
 Generated\ Files/
 
-# Packages (ако НЕ ползваш PackageReference)
+# Packages
 packages/
 
 # Publish / temp
