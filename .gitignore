@@ -1,0 +1,23 @@
+# Build & VS
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.log
+
+# Config/Artefacts
+launchSettings.json
+TestResult*/
+Generated\ Files/
+
+# Packages (ако НЕ ползваш PackageReference)
+packages/
+
+# Publish / temp
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+[Tt]emp/
